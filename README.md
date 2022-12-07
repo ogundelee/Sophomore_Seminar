@@ -11,6 +11,8 @@ Sample code :
 
 <img src ='images/Screenshot (993).png' width='350px'/>
 
+Images Used:
+
 <img src ='images/business-women2.jpg' width='350px'/>
 <img src ='images/Wome_smiling' width='350px'/>
 <img src ='images/Website picture.jpg' width='350px'/>

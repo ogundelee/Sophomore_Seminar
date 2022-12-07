@@ -5,6 +5,11 @@ It required a lot of functionality that I spent the semester implementing as eac
 
 Time Spent: 16 weeks
 
+Resources used: https://youtu.be/C5QFHp1oAws
+
+Sample code :
+<img src ='images/Screenshot (993).png' width='350px'/>
+
 <img src ='images/business-women2.jpg' width='350px'/>
 <img src ='images/Wome_smiling' width='350px'/>
 <img src ='images/Website picture.jpg' width='350px'/>

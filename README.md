@@ -5,9 +5,9 @@ It required a lot of functionality that I spent the semester implementing as eac
 
 Time Spent: 16 weeks
 
-<img src ='images/business-women2.jpg'/>
-<img src ='images/Wome_smiling'/>
-<img src ='images/Website picture.jpg'/>
-<img src ='images/IMG_0204.jpg' width='250px'/>
-<img src ='images/pregnant-women.jpg'/>
-<img src ='images/woman-tech1.jpg'/>
+<img src ='images/business-women2.jpg' width='350px'/>
+<img src ='images/Wome_smiling' width='350px'/>
+<img src ='images/Website picture.jpg' width='350px'/>
+<img src ='images/IMG_0204.jpg' width='350px'/>
+<img src ='images/pregnant-women.jpg' width='350px'/>
+<img src ='images/woman-tech1.jpg' width='350px'/>

@@ -8,6 +8,7 @@ Time Spent: 16 weeks
 Resources used: https://youtu.be/C5QFHp1oAws
 
 Sample code :
+
 <img src ='images/Screenshot (993).png' width='350px'/>
 
 <img src ='images/business-women2.jpg' width='350px'/>

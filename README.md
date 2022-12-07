@@ -8,6 +8,6 @@ Time Spent: 16 weeks
 <img src ='images/business-women2.jpg'/>
 <img src ='images/Wome_smiling'/>
 <img src ='images/Website picture.jpg'/>
-<img src ='images/IMG_0204.jpg'/>
+<img src ='images/IMG_0204.jpg' width='50px'/>
 <img src ='images/pregnant-women.jpg'/>
 <img src ='images/woman-tech1.jpg'/>

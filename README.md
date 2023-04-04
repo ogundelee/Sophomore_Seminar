@@ -7,6 +7,8 @@ Time Spent: 16 weeks
 
 Resources used: https://youtu.be/C5QFHp1oAws
 
+Website Direct link: http://127.0.0.1:5500/index.html
+
 Sample code :
 
 <img src ='images/Screenshot (993).png' width='350px'/>
